@@ -3,6 +3,7 @@
 
 # binary
 build/*
+!build/Dockerfile
 
 # configuration file
 cfg/*
